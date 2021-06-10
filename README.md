@@ -1,11 +1,21 @@
 # RickAndMortyApiLibrary
 API: https://rickandmortyapi.com/
 
-A simple application that is a library of characters from Rick and Morty.
+Library of characters from Rick and Morty. Information is downloaded from the API and is a JSON file.
+
 Implemented:
+
+- Main table with characters
 - Detailed information on the second screen
-- List of episodes where the character was
-- Pagination
+- Table of episodes where the character was
+- Scrollview with pagination
+
+Supports:
+
+- UIKit
+- Alamofire
+- Kingfisher
+
 
 
 
