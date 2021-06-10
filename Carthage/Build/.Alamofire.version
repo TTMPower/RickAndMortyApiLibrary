@@ -1,0 +1,11 @@
+{
+  "commitish" : "5.4.3",
+  "iOS" : [
+    {
+      "hash" : "650d95937fb9f515b20783e06ae6dc0b2a49b18ece0d4acd06801557ee8d4b87",
+      "name" : "Alamofire",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+    }
+  ]
+}
