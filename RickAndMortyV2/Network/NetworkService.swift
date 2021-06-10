@@ -1,10 +1,3 @@
-//
-//  NetworkService.swift
-//  RickAndMortyV2
-//
-//  Created by Владислав Вишняков on 10.06.2021.
-//
-
 import Foundation
 import Alamofire
 import Kingfisher

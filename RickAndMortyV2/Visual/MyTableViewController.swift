@@ -1,14 +1,5 @@
-//
-//  MyTableViewController.swift
-//  RickAndMortyV2
-//
-//  Created by Владислав Вишняков on 22.05.2021.
-//
-
 import UIKit
 import Kingfisher
-
-
 
 class MyTableViewController: UIViewController, UITableViewDelegate {
     

@@ -1,9 +1,3 @@
-//
-//  PresentViewController.swift
-//  RickAndMortyV2
-//
-//  Created by Владислав Вишняков on 10.06.2021.
-//
 
 import UIKit
 

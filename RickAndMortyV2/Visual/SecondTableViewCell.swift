@@ -1,10 +1,3 @@
-//
-//  SecondTableViewCell.swift
-//  RickAndMortyV2
-//
-//  Created by Владислав Вишняков on 28.05.2021.
-//
-
 import UIKit
 
 class SecondTableViewCell: UITableViewCell {

@@ -1,17 +1,3 @@
-//
-//  EpisodeModel.swift
-//  RickAndMortyV2
-//
-//  Created by Владислав Вишняков on 02.06.2021.
-//
-
-import Foundation
-
-// This file was generated from JSON Schema using quicktype, do not modify it directly.
-// To parse the JSON, add this file to your project and do:
-//
-//   let modelData = try? newJSONDecoder().decode(ModelData.self, from: jsonData)
-
 import Foundation
 
 // MARK: - ModelData
